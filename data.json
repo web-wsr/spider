@@ -1,0 +1,4258 @@
+[
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WHITE HART™ NO.51",
+    "color_r": 244,
+    "color_g": 230,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "THE BOLTONS™ NO.28",
+    "color_r": 244,
+    "color_g": 230,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STONE CASTLE™ NO.71",
+    "color_r": 223,
+    "color_g": 205,
+    "color_b": 189
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STIRRUP™ NO.114",
+    "color_r": 184,
+    "color_g": 186,
+    "color_b": 173
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SLOANE SQUARE™ NO.92",
+    "color_r": 240,
+    "color_g": 234,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SLEET™ NO.91",
+    "color_r": 235,
+    "color_g": 233,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SILVER BIT™ NO.77",
+    "color_r": 247,
+    "color_g": 238,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SAINT JOHNS™ NO.64",
+    "color_r": 229,
+    "color_g": 229,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PEDIMENT™ NO.73",
+    "color_r": 251,
+    "color_g": 229,
+    "color_b": 204
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PAVING STONE™ NO.61",
+    "color_r": 216,
+    "color_g": 200,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARBLE ARCH™ NO.82",
+    "color_r": 250,
+    "color_g": 232,
+    "color_b": 214
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LIMESTONE™ NO.55",
+    "color_r": 248,
+    "color_g": 241,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "IONIC™ NO.87",
+    "color_r": 199,
+    "color_g": 189,
+    "color_b": 166
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GROUSE™ NO.75",
+    "color_r": 232,
+    "color_g": 215,
+    "color_b": 193
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GREY OCHRE™ NO.152",
+    "color_r": 208,
+    "color_g": 201,
+    "color_b": 179
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GRAYS INN™ NO.167",
+    "color_r": 236,
+    "color_g": 226,
+    "color_b": 202
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GRAVEL LANE™ NO.169",
+    "color_r": 230,
+    "color_g": 220,
+    "color_b": 197
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FRIEZE™ NO.84",
+    "color_r": 239,
+    "color_g": 233,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORNICE™ NO.65",
+    "color_r": 224,
+    "color_g": 213,
+    "color_b": 195
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COLOSSEUM™ NO.66",
+    "color_r": 210,
+    "color_g": 201,
+    "color_b": 180
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHAMBERS GATE™ NO.85",
+    "color_r": 188,
+    "color_g": 183,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHALK FARM™ NO.53",
+    "color_r": 249,
+    "color_g": 242,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BIRDCAGE WALK™ NO.117",
+    "color_r": 128,
+    "color_g": 116,
+    "color_b": 108
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARCHWAY HOUSE™ NO.106",
+    "color_r": 156,
+    "color_g": 147,
+    "color_b": 128
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "AMBER GREY™ NO.156",
+    "color_r": 147,
+    "color_g": 131,
+    "color_b": 104
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WOOD PRIMER & UNDERCOAT - YELLOW",
+    "color_r": 234,
+    "color_g": 206,
+    "color_b": 155
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ACANTHUS LEAF™ NO.12",
+    "color_r": 244,
+    "color_g": 242,
+    "color_b": 239
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ALDERMAN™ NO.60",
+    "color_r": 220,
+    "color_g": 205,
+    "color_b": 198
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "AMBER GREY™ NO.156",
+    "color_r": 147,
+    "color_g": 131,
+    "color_b": 104
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARCHWAY HOUSE™ NO.106",
+    "color_r": 156,
+    "color_g": 147,
+    "color_b": 128
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARTILLERY GROUND™ NO.164",
+    "color_r": 48,
+    "color_g": 41,
+    "color_b": 21
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARTS CLUB™ NO.281",
+    "color_r": 195,
+    "color_g": 54,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEAUFORT GARDENS™ NO.212",
+    "color_r": 219,
+    "color_g": 219,
+    "color_b": 219
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEAUVAIS™ NO.195",
+    "color_r": 200,
+    "color_g": 200,
+    "color_b": 180
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEDFORD SQUARE™ NO.229",
+    "color_r": 162,
+    "color_g": 189,
+    "color_b": 208
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEEHIVE PLACE™ NO.140",
+    "color_r": 235,
+    "color_g": 220,
+    "color_b": 167
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BELGRAVIA™ NO.6",
+    "color_r": 249,
+    "color_g": 247,
+    "color_b": 246
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BIRDCAGE WALK™ NO.117",
+    "color_r": 128,
+    "color_g": 116,
+    "color_b": 108
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLACKOUT™ NO.41",
+    "color_r": 99,
+    "color_g": 83,
+    "color_b": 95
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLOOMSBURY™ NO.267",
+    "color_r": 206,
+    "color_g": 150,
+    "color_b": 141
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLUEPRINT™ NO.50",
+    "color_r": 74,
+    "color_g": 94,
+    "color_b": 119
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BOATHOUSE™ NO.33",
+    "color_r": 95,
+    "color_g": 138,
+    "color_b": 166
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BOND STREET™ NO.219",
+    "color_r": 0,
+    "color_g": 0,
+    "color_b": 17
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BROMPTON ROAD™ NO.205",
+    "color_r": 51,
+    "color_g": 70,
+    "color_b": 29
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BURLINGTON ARCADE™ NO.216",
+    "color_r": 101,
+    "color_g": 138,
+    "color_b": 145
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CAVENDISH CREAM™ NO.120",
+    "color_r": 244,
+    "color_g": 233,
+    "color_b": 199
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CADOGAN STONE™ NO.59",
+    "color_r": 236,
+    "color_g": 223,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CAVENDISH CREAM™ NO.120",
+    "color_r": 244,
+    "color_g": 233,
+    "color_b": 199
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHALK FARM™ NO.53",
+    "color_r": 249,
+    "color_g": 242,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHAMBERS GATE™ NO.85",
+    "color_r": 188,
+    "color_g": 183,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHARTERHOUSE™ NO.4",
+    "color_r": 244,
+    "color_g": 244,
+    "color_b": 244
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHESTER SQUARE™ NO.199",
+    "color_r": 221,
+    "color_g": 214,
+    "color_b": 181
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHISWICK™ NO.100",
+    "color_r": 220,
+    "color_g": 217,
+    "color_b": 210
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CIRCLE LINE™ NO.45",
+    "color_r": 255,
+    "color_g": 200,
+    "color_b": 8
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CLERKENWELL NO.21",
+    "color_r": 242,
+    "color_g": 226,
+    "color_b": 225
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COLOSSEUM™ NO.66",
+    "color_r": 210,
+    "color_g": 201,
+    "color_b": 180
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COPPER GREEN™ NO.36",
+    "color_r": 202,
+    "color_g": 231,
+    "color_b": 213
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORAL ORANGE™ NO.277",
+    "color_r": 222,
+    "color_g": 123,
+    "color_b": 78
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORNHILL™ NO.128",
+    "color_r": 239,
+    "color_g": 220,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORNICE™ NO.65",
+    "color_r": 224,
+    "color_g": 213,
+    "color_b": 195
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COTTON STREET™ NO.3",
+    "color_r": 222,
+    "color_g": 223,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COVENT GARDEN FLORAL™ NO.270",
+    "color_r": 221,
+    "color_g": 115,
+    "color_b": 107
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CRACE™ NO.16",
+    "color_r": 142,
+    "color_g": 138,
+    "color_b": 125
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DOWNING STREET™ NO.10",
+    "color_r": 63,
+    "color_g": 67,
+    "color_b": 64
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DRURY LANE™ NO.115",
+    "color_r": 140,
+    "color_g": 137,
+    "color_b": 134
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DUKE’S HOUSE™ NO.44",
+    "color_r": 76,
+    "color_g": 50,
+    "color_b": 75
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EARLY LAVENDER™ NO.260",
+    "color_r": 240,
+    "color_g": 231,
+    "color_b": 236
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EATON SQUARE™ NO.232",
+    "color_r": 58,
+    "color_g": 126,
+    "color_b": 153
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EGERTON PLACE™ NO.297",
+    "color_r": 204,
+    "color_g": 181,
+    "color_b": 151
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EGYPTIAN GREY™ NO.154",
+    "color_r": 188,
+    "color_g": 171,
+    "color_b": 141
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ELGIN™ NO.20",
+    "color_r": 229,
+    "color_g": 230,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EMPIRE GREY™ NO.171",
+    "color_r": 199,
+    "color_g": 180,
+    "color_b": 162
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EMPIRE-VIOLET™ NO.80",
+    "color_r": 75,
+    "color_g": 63,
+    "color_b": 75
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ENAMEL BLUE™ NO.78",
+    "color_r": 117,
+    "color_g": 186,
+    "color_b": 195
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FITZROVIA™ NO.26",
+    "color_r": 233,
+    "color_g": 218,
+    "color_b": 211
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FLANDERS GREY™ NO.110",
+    "color_r": 216,
+    "color_g": 207,
+    "color_b": 188
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FLORAL STREET™ NO.147",
+    "color_r": 252,
+    "color_g": 243,
+    "color_b": 198
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FLORIS™ NO.27",
+    "color_r": 188,
+    "color_g": 161,
+    "color_b": 156
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FRENCH GREEN™ NO.187",
+    "color_r": 221,
+    "color_g": 224,
+    "color_b": 181
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FRIEZE™ NO.84",
+    "color_r": 239,
+    "color_g": 233,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-001™",
+    "color_r": 168,
+    "color_g": 130,
+    "color_b": 55
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-002™",
+    "color_r": 235,
+    "color_g": 206,
+    "color_b": 150
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-003™",
+    "color_r": 235,
+    "color_g": 202,
+    "color_b": 155
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-004™",
+    "color_r": 237,
+    "color_g": 234,
+    "color_b": 237
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-005™",
+    "color_r": 251,
+    "color_g": 185,
+    "color_b": 183
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-006™",
+    "color_r": 216,
+    "color_g": 65,
+    "color_b": 92
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-007™",
+    "color_r": 175,
+    "color_g": 58,
+    "color_b": 98
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-008™",
+    "color_r": 255,
+    "color_g": 218,
+    "color_b": 107
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-009™",
+    "color_r": 213,
+    "color_g": 68,
+    "color_b": 53
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-010™",
+    "color_r": 238,
+    "color_g": 133,
+    "color_b": 82
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-011™",
+    "color_r": 90,
+    "color_g": 211,
+    "color_b": 146
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-012™",
+    "color_r": 64,
+    "color_g": 200,
+    "color_b": 178
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-013™",
+    "color_r": 101,
+    "color_g": 154,
+    "color_b": 158
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-014™",
+    "color_r": 84,
+    "color_g": 87,
+    "color_b": 80
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-015™",
+    "color_r": 129,
+    "color_g": 129,
+    "color_b": 119
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-016™",
+    "color_r": 153,
+    "color_g": 188,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-017™",
+    "color_r": 99,
+    "color_g": 167,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-018™",
+    "color_r": 90,
+    "color_g": 125,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-019™",
+    "color_r": 128,
+    "color_g": 97,
+    "color_b": 161
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-020™",
+    "color_r": 106,
+    "color_g": 67,
+    "color_b": 112
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GENTLEMAN’S PINK™ NO.221",
+    "color_r": 241,
+    "color_g": 221,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GOLDEN SQUARE™ NO.131",
+    "color_r": 250,
+    "color_g": 224,
+    "color_b": 151
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GRAVEL LANE™ NO.169",
+    "color_r": 230,
+    "color_g": 220,
+    "color_b": 197
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GRAYS INN™ NO.167",
+    "color_r": 236,
+    "color_g": 226,
+    "color_b": 202
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GREENSTONE™ NO.190",
+    "color_r": 197,
+    "color_g": 196,
+    "color_b": 156
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GREENWICH TIME™ NO.8",
+    "color_r": 234,
+    "color_g": 240,
+    "color_b": 240
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GREY OCHRE™ NO.152",
+    "color_r": 208,
+    "color_g": 201,
+    "color_b": 179
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GROSVENOR SQUARE™ NO.109",
+    "color_r": 219,
+    "color_g": 214,
+    "color_b": 204
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GROUSE™ NO.75",
+    "color_r": 232,
+    "color_g": 215,
+    "color_b": 193
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HAWKESMOOR™ NO.112",
+    "color_r": 216,
+    "color_g": 218,
+    "color_b": 219
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HAYMARKET™ NO.47",
+    "color_r": 190,
+    "color_g": 148,
+    "color_b": 16
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HOLBEIN CHAMBER™ NO.7",
+    "color_r": 241,
+    "color_g": 240,
+    "color_b": 234
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HOLLAND PARK™ NO.5",
+    "color_r": 220,
+    "color_g": 214,
+    "color_b": 200
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HONEST JOHN™ NO.58",
+    "color_r": 238,
+    "color_g": 218,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HOXTON GREY™ NO.72",
+    "color_r": 233,
+    "color_g": 218,
+    "color_b": 213
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HUGUENOT™ NO.49",
+    "color_r": 150,
+    "color_g": 35,
+    "color_b": 44
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HURLINGHAM™ NO.181",
+    "color_r": 236,
+    "color_g": 239,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HURLINGHAM™ NO.181",
+    "color_r": 236,
+    "color_g": 239,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "INDIAN LAKE™ NO.288",
+    "color_r": 151,
+    "color_g": 26,
+    "color_b": 10
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "IONIC™ NO.87",
+    "color_r": 199,
+    "color_g": 189,
+    "color_b": 166
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ISLINGTON™ NO.23",
+    "color_r": 211,
+    "color_g": 205,
+    "color_b": 205
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "KENSINGTON ROSE™ NO.22",
+    "color_r": 242,
+    "color_g": 232,
+    "color_b": 231
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LAMBETH WALK™ NO.210",
+    "color_r": 223,
+    "color_g": 226,
+    "color_b": 233
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LAVENDER GARDEN™ NO.30",
+    "color_r": 174,
+    "color_g": 158,
+    "color_b": 155
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LEADENHALL™ NO.118",
+    "color_r": 99,
+    "color_g": 97,
+    "color_b": 98
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LEMON SALTS™ NO.43",
+    "color_r": 240,
+    "color_g": 228,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LIMEHOUSE™ NO.31",
+    "color_r": 235,
+    "color_g": 222,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LIMESTONE™ NO.55",
+    "color_r": 248,
+    "color_g": 241,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LOCK KEEPER™ NO.18",
+    "color_r": 52,
+    "color_g": 42,
+    "color_b": 31
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LOLLY POP™ NO.275",
+    "color_r": 255,
+    "color_g": 136,
+    "color_b": 67
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LONDON BROWN™ NO.287",
+    "color_r": 54,
+    "color_g": 29,
+    "color_b": 21
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LONDON PLANE™ NO.200",
+    "color_r": 185,
+    "color_g": 172,
+    "color_b": 116
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LOTS ROAD™ NO.24",
+    "color_r": 236,
+    "color_g": 229,
+    "color_b": 199
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LUDGATE CIRCUS™ NO.89",
+    "color_r": 204,
+    "color_g": 198,
+    "color_b": 196
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARBLE ARCH™ NO.82",
+    "color_r": 250,
+    "color_g": 232,
+    "color_b": 214
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARITIME™ NO.236",
+    "color_r": 59,
+    "color_g": 77,
+    "color_b": 101
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARKET GREEN NO.38",
+    "color_r": 51,
+    "color_g": 88,
+    "color_b": 84
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MAUGHAM WHITE™ NO.2",
+    "color_r": 206,
+    "color_g": 207,
+    "color_b": 200
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MAYFAIR DARK™ NO.218",
+    "color_r": 92,
+    "color_g": 102,
+    "color_b": 139
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MESSEL™ NO.39",
+    "color_r": 93,
+    "color_g": 92,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "METAL PRIMER & UNDERCOAT - DARK GREY",
+    "color_r": 57,
+    "color_g": 51,
+    "color_b": 41
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "METAL PRIMER & UNDERCOAT - LIGHT GREY",
+    "color_r": 134,
+    "color_g": 126,
+    "color_b": 125
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "METAL PRIMER & UNDERCOAT - WHITE",
+    "color_r": 219,
+    "color_g": 179,
+    "color_b": 131
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MEWS BLUE™ NO.98",
+    "color_r": 218,
+    "color_g": 216,
+    "color_b": 213
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MID WEDGWOOD™ NO.113",
+    "color_r": 202,
+    "color_g": 195,
+    "color_b": 201
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MILLBANK™ NO.254",
+    "color_r": 141,
+    "color_g": 108,
+    "color_b": 77
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MINT STREET™ NO.95",
+    "color_r": 228,
+    "color_g": 218,
+    "color_b": 205
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MORNING BLUE™ NO.32",
+    "color_r": 206,
+    "color_g": 217,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MORTLAKE RED™ NO.290",
+    "color_r": 209,
+    "color_g": 74,
+    "color_b": 56
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MUSEUM™ NO.151",
+    "color_r": 186,
+    "color_g": 190,
+    "color_b": 180
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MYRTLE GREEN™ NO.168",
+    "color_r": 133,
+    "color_g": 139,
+    "color_b": 115
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "NEW LIME™ NO.149",
+    "color_r": 196,
+    "color_g": 187,
+    "color_b": 78
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "NOTTING HILL™ NO.213",
+    "color_r": 203,
+    "color_g": 220,
+    "color_b": 226
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "OBSERVATORY™ NO.34",
+    "color_r": 58,
+    "color_g": 94,
+    "color_b": 134
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ONSLOW™ NO.48",
+    "color_r": 237,
+    "color_g": 222,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ORATORY™ NO.237",
+    "color_r": 73,
+    "color_g": 76,
+    "color_b": 81
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "OSTERLEY™ NO.25",
+    "color_r": 246,
+    "color_g": 239,
+    "color_b": 235
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PALE LILAC™ NO.246",
+    "color_r": 234,
+    "color_g": 203,
+    "color_b": 196
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PALMERSTON PINK™ NO.243",
+    "color_r": 238,
+    "color_g": 225,
+    "color_b": 223
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PAVING STONE™ NO.61",
+    "color_r": 216,
+    "color_g": 200,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PEACH FLESH PINK™ NO.268",
+    "color_r": 221,
+    "color_g": 190,
+    "color_b": 160
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PEDIMENT™ NO.73",
+    "color_r": 251,
+    "color_g": 229,
+    "color_b": 204
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PIMLICO™ NO.136",
+    "color_r": 249,
+    "color_g": 226,
+    "color_b": 146
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PINK WOOD PRIMER AND UNDERCOAT",
+    "color_r": 222,
+    "color_g": 185,
+    "color_b": 129
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PLEASURE GARDENS GREEN™ NO.214",
+    "color_r": 34,
+    "color_g": 60,
+    "color_b": 35
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PLUM TREE™ NO.283",
+    "color_r": 87,
+    "color_g": 18,
+    "color_b": 27
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PORTCULLIS™ NO.170",
+    "color_r": 149,
+    "color_g": 137,
+    "color_b": 103
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PRIMROSE HILL™ NO.201",
+    "color_r": 168,
+    "color_g": 177,
+    "color_b": 56
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PROPER BLUE™ NO.67",
+    "color_r": 19,
+    "color_g": 75,
+    "color_b": 112
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PURE WHITE™ NO.1",
+    "color_r": 253,
+    "color_g": 253,
+    "color_b": 253
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "RED POST HILL™ NO.68",
+    "color_r": 148,
+    "color_g": 19,
+    "color_b": 12
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ROSE TAUPE™ NO.292",
+    "color_r": 111,
+    "color_g": 101,
+    "color_b": 80
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ROSE THEATRE™ NO.249",
+    "color_r": 232,
+    "color_g": 222,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ROTHSCHILD STREET™ NO.296",
+    "color_r": 73,
+    "color_g": 7,
+    "color_b": 5
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SAINT JOHNS™ NO.64",
+    "color_r": 229,
+    "color_g": 229,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SERPENTINE™ NO.192",
+    "color_r": 154,
+    "color_g": 156,
+    "color_b": 120
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SHOREDITCH™ NO.15",
+    "color_r": 93,
+    "color_g": 92,
+    "color_b": 76
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SILVER BIT™ NO.77",
+    "color_r": 247,
+    "color_g": 238,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SINNER™ NO.238",
+    "color_r": 11,
+    "color_g": 11,
+    "color_b": 11
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SLEET™ NO.91",
+    "color_r": 235,
+    "color_g": 233,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SLOANE SQUARE™ NO.92",
+    "color_r": 240,
+    "color_g": 234,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SMITHFIELD™ NO.19",
+    "color_r": 215,
+    "color_g": 205,
+    "color_b": 202
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SOHO HOUSE NO.266",
+    "color_r": 209,
+    "color_g": 178,
+    "color_b": 171
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SORREL GREEN™ NO.207",
+    "color_r": 94,
+    "color_g": 129,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ST CLEMENT™ NO.11",
+    "color_r": 222,
+    "color_g": 225,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ST JAMES™ NO.40",
+    "color_r": 233,
+    "color_g": 222,
+    "color_b": 214
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ST MARTINS™ NO.37",
+    "color_r": 231,
+    "color_g": 220,
+    "color_b": 212
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STIRRUP™ NO.114",
+    "color_r": 184,
+    "color_g": 186,
+    "color_b": 173
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STOCKWELL GREEN™ NO.203",
+    "color_r": 162,
+    "color_g": 161,
+    "color_b": 103
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STONE CASTLE™ NO.71",
+    "color_r": 223,
+    "color_g": 205,
+    "color_b": 189
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SYON PARK™ NO.13",
+    "color_r": 233,
+    "color_g": 238,
+    "color_b": 230
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "TEMPLE BAR™ NO.70",
+    "color_r": 227,
+    "color_g": 216,
+    "color_b": 200
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "THE BOLTONS™ NO.28",
+    "color_r": 244,
+    "color_g": 230,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "THEATRE LAND™ NO.282",
+    "color_r": 146,
+    "color_g": 4,
+    "color_b": 6
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "THREADNEEDLE™ NO.262",
+    "color_r": 232,
+    "color_g": 217,
+    "color_b": 210
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "VERDURE YELLOW™ NO.148",
+    "color_r": 239,
+    "color_g": 222,
+    "color_b": 130
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WALBROOK™ NO.142",
+    "color_r": 254,
+    "color_g": 241,
+    "color_b": 211
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WALL PRIMER",
+    "color_r": 219,
+    "color_g": 179,
+    "color_b": 131
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WALPOLE™ NO.42",
+    "color_r": 243,
+    "color_g": 249,
+    "color_b": 251
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WESTMORELAND™ NO.160",
+    "color_r": 155,
+    "color_g": 130,
+    "color_b": 85
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WHARF SACKING™ NO.127.",
+    "color_r": 226,
+    "color_g": 199,
+    "color_b": 140
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WHITE HART™ NO.51",
+    "color_r": 244,
+    "color_g": 230,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WHITEHALL™ NO.9",
+    "color_r": 230,
+    "color_g": 218,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WOOD PRIMER & UNDERCOAT - DARK GREY",
+    "color_r": 57,
+    "color_g": 51,
+    "color_b": 41
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WOOD PRIMER & UNDERCOAT - LIGHT GREY",
+    "color_r": 134,
+    "color_g": 126,
+    "color_b": 125
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WOOD PRIMER & UNDERCOAT - WHITE",
+    "color_r": 246,
+    "color_g": 217,
+    "color_b": 174
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SORREL GREEN™ NO.207",
+    "color_r": 94,
+    "color_g": 129,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ROSE TAUPE™ NO.292",
+    "color_r": 111,
+    "color_g": 101,
+    "color_b": 80
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "RED POST HILL™ NO.68",
+    "color_r": 148,
+    "color_g": 19,
+    "color_b": 12
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PROPER BLUE™ NO.67",
+    "color_r": 19,
+    "color_g": 75,
+    "color_b": 112
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PLEASURE GARDENS GREEN™ NO.214",
+    "color_r": 34,
+    "color_g": 60,
+    "color_b": 35
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PEACH FLESH PINK™ NO.268",
+    "color_r": 221,
+    "color_g": 190,
+    "color_b": 160
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GENTLEMAN’S PINK™ NO.221",
+    "color_r": 241,
+    "color_g": 221,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ENAMEL BLUE™ NO.78",
+    "color_r": 117,
+    "color_g": 186,
+    "color_b": 195
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EMPIRE-VIOLET™ NO.80",
+    "color_r": 75,
+    "color_g": 63,
+    "color_b": 75
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EGERTON PLACE™ NO.297",
+    "color_r": 204,
+    "color_g": 181,
+    "color_b": 151
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORAL ORANGE™ NO.277",
+    "color_r": 222,
+    "color_g": 123,
+    "color_b": 78
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEEHIVE PLACE™ NO.140",
+    "color_r": 235,
+    "color_g": 220,
+    "color_b": 167
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-004™",
+    "color_r": 237,
+    "color_g": 234,
+    "color_b": 237
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-003™",
+    "color_r": 235,
+    "color_g": 202,
+    "color_b": 155
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-002™",
+    "color_r": 235,
+    "color_g": 206,
+    "color_b": 150
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-001™",
+    "color_r": 168,
+    "color_g": 130,
+    "color_b": 55
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SELLA",
+    "color_r": 216,
+    "color_g": 199,
+    "color_b": 159
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PINK HOUSE PINK",
+    "color_r": 243,
+    "color_g": 186,
+    "color_b": 163
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MAD ABOUT THE BATHROOM",
+    "color_r": 107,
+    "color_g": 101,
+    "color_b": 65
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FREEGROVE MUSTARD",
+    "color_r": 232,
+    "color_g": 186,
+    "color_b": 60
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DULWICH RED",
+    "color_r": 167,
+    "color_g": 47,
+    "color_b": 35
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PLEASURE GARDENS GREEN™ NO.214",
+    "color_r": 34,
+    "color_g": 60,
+    "color_b": 35
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ORATORY™ NO.237",
+    "color_r": 73,
+    "color_g": 76,
+    "color_b": 81
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MESSEL™ NO.39",
+    "color_r": 93,
+    "color_g": 92,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARKET GREEN NO.38",
+    "color_r": 51,
+    "color_g": 88,
+    "color_b": 84
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LOCK KEEPER™ NO.18",
+    "color_r": 52,
+    "color_g": 42,
+    "color_b": 31
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LEADENHALL™ NO.118",
+    "color_r": 99,
+    "color_g": 97,
+    "color_b": 98
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-015™",
+    "color_r": 129,
+    "color_g": 129,
+    "color_b": 119
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-014™",
+    "color_r": 84,
+    "color_g": 87,
+    "color_b": 80
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DULWICH RED",
+    "color_r": 167,
+    "color_g": 47,
+    "color_b": 35
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DRURY LANE™ NO.115",
+    "color_r": 140,
+    "color_g": 137,
+    "color_b": 134
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BROMPTON ROAD™ NO.205",
+    "color_r": 51,
+    "color_g": 70,
+    "color_b": 29
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BOND STREET™ NO.219",
+    "color_r": 0,
+    "color_g": 0,
+    "color_b": 17
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLUEPRINT™ NO.50",
+    "color_r": 74,
+    "color_g": 94,
+    "color_b": 119
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLACKOUT™ NO.41",
+    "color_r": 99,
+    "color_g": 83,
+    "color_b": 95
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BIRDCAGE WALK™ NO.117",
+    "color_r": 128,
+    "color_g": 116,
+    "color_b": 108
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARTILLERY GROUND™ NO.164",
+    "color_r": 48,
+    "color_g": 41,
+    "color_b": 21
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARCHWAY HOUSE™ NO.106",
+    "color_r": 156,
+    "color_g": 147,
+    "color_b": 128
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "AMBER GREY™ NO.156",
+    "color_r": 147,
+    "color_g": 131,
+    "color_b": 104
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "RED POST HILL™ NO.68",
+    "color_r": 148,
+    "color_g": 19,
+    "color_b": 12
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CAVENDISH CREAM™ NO.120",
+    "color_r": 244,
+    "color_g": 233,
+    "color_b": 199
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FLANDERS GREY™ NO.110",
+    "color_r": 216,
+    "color_g": 207,
+    "color_b": 188
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BURLINGTON ARCADE™ NO.216",
+    "color_r": 101,
+    "color_g": 138,
+    "color_b": 145
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WHITEHALL™ NO.9",
+    "color_r": 230,
+    "color_g": 218,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WHITE HART™ NO.51",
+    "color_r": 244,
+    "color_g": 230,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WHARF SACKING™ NO.127.",
+    "color_r": 226,
+    "color_g": 199,
+    "color_b": 140
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WESTMORELAND™ NO.160",
+    "color_r": 155,
+    "color_g": 130,
+    "color_b": 85
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WALPOLE™ NO.42",
+    "color_r": 243,
+    "color_g": 249,
+    "color_b": 251
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WALBROOK™ NO.142",
+    "color_r": 254,
+    "color_g": 241,
+    "color_b": 211
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "VERDURE YELLOW™ NO.148",
+    "color_r": 239,
+    "color_g": 222,
+    "color_b": 130
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "THREADNEEDLE™ NO.262",
+    "color_r": 232,
+    "color_g": 217,
+    "color_b": 210
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "THEATRE LAND™ NO.282",
+    "color_r": 146,
+    "color_g": 4,
+    "color_b": 6
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "THE BOLTONS™ NO.28",
+    "color_r": 244,
+    "color_g": 230,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "TEMPLE BAR™ NO.70",
+    "color_r": 227,
+    "color_g": 216,
+    "color_b": 200
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SYON PARK™ NO.13",
+    "color_r": 233,
+    "color_g": 238,
+    "color_b": 230
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STONE CASTLE™ NO.71",
+    "color_r": 223,
+    "color_g": 205,
+    "color_b": 189
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STOCKWELL GREEN™ NO.203",
+    "color_r": 162,
+    "color_g": 161,
+    "color_b": 103
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STIRRUP™ NO.114",
+    "color_r": 184,
+    "color_g": 186,
+    "color_b": 173
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ST MARTINS™ NO.37",
+    "color_r": 231,
+    "color_g": 220,
+    "color_b": 212
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ST JAMES™ NO.40",
+    "color_r": 233,
+    "color_g": 222,
+    "color_b": 214
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ST CLEMENT™ NO.11",
+    "color_r": 222,
+    "color_g": 225,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SORREL GREEN™ NO.207",
+    "color_r": 94,
+    "color_g": 129,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SOHO HOUSE NO.266",
+    "color_r": 209,
+    "color_g": 178,
+    "color_b": 171
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SMITHFIELD™ NO.19",
+    "color_r": 215,
+    "color_g": 205,
+    "color_b": 202
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SLOANE SQUARE™ NO.92",
+    "color_r": 240,
+    "color_g": 234,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SLEET™ NO.91",
+    "color_r": 235,
+    "color_g": 233,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SINNER™ NO.238",
+    "color_r": 11,
+    "color_g": 11,
+    "color_b": 11
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SILVER BIT™ NO.77",
+    "color_r": 247,
+    "color_g": 238,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SHOREDITCH™ NO.15",
+    "color_r": 93,
+    "color_g": 92,
+    "color_b": 76
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SERPENTINE™ NO.192",
+    "color_r": 154,
+    "color_g": 156,
+    "color_b": 120
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SAINT JOHNS™ NO.64",
+    "color_r": 229,
+    "color_g": 229,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ROTHSCHILD STREET™ NO.296",
+    "color_r": 73,
+    "color_g": 7,
+    "color_b": 5
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ROSE THEATRE™ NO.249",
+    "color_r": 232,
+    "color_g": 222,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ROSE TAUPE™ NO.292",
+    "color_r": 111,
+    "color_g": 101,
+    "color_b": 80
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "RED POST HILL™ NO.68",
+    "color_r": 148,
+    "color_g": 19,
+    "color_b": 12
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PURE WHITE™ NO.1",
+    "color_r": 253,
+    "color_g": 253,
+    "color_b": 253
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PROPER BLUE™ NO.67",
+    "color_r": 19,
+    "color_g": 75,
+    "color_b": 112
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PRIMROSE HILL™ NO.201",
+    "color_r": 168,
+    "color_g": 177,
+    "color_b": 56
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PORTCULLIS™ NO.170",
+    "color_r": 149,
+    "color_g": 137,
+    "color_b": 103
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PLUM TREE™ NO.283",
+    "color_r": 87,
+    "color_g": 18,
+    "color_b": 27
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PLEASURE GARDENS GREEN™ NO.214",
+    "color_r": 34,
+    "color_g": 60,
+    "color_b": 35
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PIMLICO™ NO.136",
+    "color_r": 249,
+    "color_g": 226,
+    "color_b": 146
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PEDIMENT™ NO.73",
+    "color_r": 251,
+    "color_g": 229,
+    "color_b": 204
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PEACH FLESH PINK™ NO.268",
+    "color_r": 221,
+    "color_g": 190,
+    "color_b": 160
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PAVING STONE™ NO.61",
+    "color_r": 216,
+    "color_g": 200,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PALMERSTON PINK™ NO.243",
+    "color_r": 238,
+    "color_g": 225,
+    "color_b": 223
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PALE LILAC™ NO.246",
+    "color_r": 234,
+    "color_g": 203,
+    "color_b": 196
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "OSTERLEY™ NO.25",
+    "color_r": 246,
+    "color_g": 239,
+    "color_b": 235
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ORATORY™ NO.237",
+    "color_r": 73,
+    "color_g": 76,
+    "color_b": 81
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ONSLOW™ NO.48",
+    "color_r": 237,
+    "color_g": 222,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "OBSERVATORY™ NO.34",
+    "color_r": 58,
+    "color_g": 94,
+    "color_b": 134
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "NOTTING HILL™ NO.213",
+    "color_r": 203,
+    "color_g": 220,
+    "color_b": 226
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "NEW LIME™ NO.149",
+    "color_r": 196,
+    "color_g": 187,
+    "color_b": 78
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MYRTLE GREEN™ NO.168",
+    "color_r": 133,
+    "color_g": 139,
+    "color_b": 115
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MUSEUM™ NO.151",
+    "color_r": 186,
+    "color_g": 190,
+    "color_b": 180
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MORTLAKE RED™ NO.290",
+    "color_r": 209,
+    "color_g": 74,
+    "color_b": 56
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MORNING BLUE™ NO.32",
+    "color_r": 206,
+    "color_g": 217,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MINT STREET™ NO.95",
+    "color_r": 228,
+    "color_g": 218,
+    "color_b": 205
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MILLBANK™ NO.254",
+    "color_r": 141,
+    "color_g": 108,
+    "color_b": 77
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MID WEDGWOOD™ NO.113",
+    "color_r": 202,
+    "color_g": 195,
+    "color_b": 201
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MEWS BLUE™ NO.98",
+    "color_r": 218,
+    "color_g": 216,
+    "color_b": 213
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MESSEL™ NO.39",
+    "color_r": 93,
+    "color_g": 92,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MAYFAIR DARK™ NO.218",
+    "color_r": 92,
+    "color_g": 102,
+    "color_b": 139
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MAUGHAM WHITE™ NO.2",
+    "color_r": 206,
+    "color_g": 207,
+    "color_b": 200
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARKET GREEN NO.38",
+    "color_r": 51,
+    "color_g": 88,
+    "color_b": 84
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARITIME™ NO.236",
+    "color_r": 59,
+    "color_g": 77,
+    "color_b": 101
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARBLE ARCH™ NO.82",
+    "color_r": 250,
+    "color_g": 232,
+    "color_b": 214
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LUDGATE CIRCUS™ NO.89",
+    "color_r": 204,
+    "color_g": 198,
+    "color_b": 196
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LOTS ROAD™ NO.24",
+    "color_r": 236,
+    "color_g": 229,
+    "color_b": 199
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LONG ACRE™ NO.102",
+    "color_r": 163,
+    "color_g": 176,
+    "color_b": 172
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LONDON PLANE™ NO.200",
+    "color_r": 185,
+    "color_g": 172,
+    "color_b": 116
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LONDON BROWN™ NO.287",
+    "color_r": 54,
+    "color_g": 29,
+    "color_b": 21
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LOLLY POP™ NO.275",
+    "color_r": 255,
+    "color_g": 136,
+    "color_b": 67
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LOCK KEEPER™ NO.18",
+    "color_r": 52,
+    "color_g": 42,
+    "color_b": 31
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LIMESTONE™ NO.55",
+    "color_r": 248,
+    "color_g": 241,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LIMEHOUSE™ NO.31",
+    "color_r": 235,
+    "color_g": 222,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LEMON SALTS™ NO.43",
+    "color_r": 240,
+    "color_g": 228,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LEADENHALL™ NO.118",
+    "color_r": 99,
+    "color_g": 97,
+    "color_b": 98
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LAVENDER GARDEN™ NO.30",
+    "color_r": 174,
+    "color_g": 158,
+    "color_b": 155
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LAMBETH WALK™ NO.210",
+    "color_r": 223,
+    "color_g": 226,
+    "color_b": 233
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "KENSINGTON ROSE™ NO.22",
+    "color_r": 242,
+    "color_g": 232,
+    "color_b": 231
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ISLINGTON™ NO.23",
+    "color_r": 211,
+    "color_g": 205,
+    "color_b": 205
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "IONIC™ NO.87",
+    "color_r": 199,
+    "color_g": 189,
+    "color_b": 166
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "INDIAN LAKE™ NO.288",
+    "color_r": 151,
+    "color_g": 26,
+    "color_b": 10
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HURLINGHAM™ NO.181",
+    "color_r": 236,
+    "color_g": 239,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HUGUENOT™ NO.49",
+    "color_r": 150,
+    "color_g": 35,
+    "color_b": 44
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HOXTON GREY™ NO.72",
+    "color_r": 233,
+    "color_g": 218,
+    "color_b": 213
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HONEST JOHN™ NO.58",
+    "color_r": 238,
+    "color_g": 218,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HOLLAND PARK™ NO.5",
+    "color_r": 220,
+    "color_g": 214,
+    "color_b": 200
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HOLBEIN CHAMBER™ NO.7",
+    "color_r": 241,
+    "color_g": 240,
+    "color_b": 234
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HAYMARKET™ NO.47",
+    "color_r": 190,
+    "color_g": 148,
+    "color_b": 16
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HAWKESMOOR™ NO.112",
+    "color_r": 216,
+    "color_g": 218,
+    "color_b": 219
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GROUSE™ NO.75",
+    "color_r": 232,
+    "color_g": 215,
+    "color_b": 193
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GROSVENOR SQUARE™ NO.109",
+    "color_r": 219,
+    "color_g": 214,
+    "color_b": 204
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GREY OCHRE™ NO.152",
+    "color_r": 208,
+    "color_g": 201,
+    "color_b": 179
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GREENWICH TIME™ NO.8",
+    "color_r": 234,
+    "color_g": 240,
+    "color_b": 240
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GREENSTONE™ NO.190",
+    "color_r": 197,
+    "color_g": 196,
+    "color_b": 156
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GRAYS INN™ NO.167",
+    "color_r": 236,
+    "color_g": 226,
+    "color_b": 202
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GRAVEL LANE™ NO.169",
+    "color_r": 230,
+    "color_g": 220,
+    "color_b": 197
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GOLDEN SQUARE™ NO.131",
+    "color_r": 250,
+    "color_g": 224,
+    "color_b": 151
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GENTLEMAN’S PINK™ NO.221",
+    "color_r": 241,
+    "color_g": 221,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-020™",
+    "color_r": 106,
+    "color_g": 67,
+    "color_b": 112
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-019™",
+    "color_r": 128,
+    "color_g": 97,
+    "color_b": 161
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-018™",
+    "color_r": 90,
+    "color_g": 125,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-017™",
+    "color_r": 99,
+    "color_g": 167,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-016™",
+    "color_r": 153,
+    "color_g": 188,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-015™",
+    "color_r": 129,
+    "color_g": 129,
+    "color_b": 119
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-014™",
+    "color_r": 84,
+    "color_g": 87,
+    "color_b": 80
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-013™",
+    "color_r": 101,
+    "color_g": 154,
+    "color_b": 158
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-012™",
+    "color_r": 64,
+    "color_g": 200,
+    "color_b": 178
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-011™",
+    "color_r": 90,
+    "color_g": 211,
+    "color_b": 146
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-010™",
+    "color_r": 238,
+    "color_g": 133,
+    "color_b": 82
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-009™",
+    "color_r": 213,
+    "color_g": 68,
+    "color_b": 53
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-008™",
+    "color_r": 255,
+    "color_g": 218,
+    "color_b": 107
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-007™",
+    "color_r": 175,
+    "color_g": 58,
+    "color_b": 98
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-006™",
+    "color_r": 216,
+    "color_g": 65,
+    "color_b": 92
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-005™",
+    "color_r": 251,
+    "color_g": 185,
+    "color_b": 183
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-004™",
+    "color_r": 237,
+    "color_g": 234,
+    "color_b": 237
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-003™",
+    "color_r": 235,
+    "color_g": 202,
+    "color_b": 155
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-002™",
+    "color_r": 235,
+    "color_g": 206,
+    "color_b": 150
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-001™",
+    "color_r": 168,
+    "color_g": 130,
+    "color_b": 55
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FRIEZE™ NO.84",
+    "color_r": 239,
+    "color_g": 233,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FRENCH GREEN™ NO.187",
+    "color_r": 221,
+    "color_g": 224,
+    "color_b": 181
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FLORIS™ NO.27",
+    "color_r": 188,
+    "color_g": 161,
+    "color_b": 156
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FLORAL STREET™ NO.147",
+    "color_r": 252,
+    "color_g": 243,
+    "color_b": 198
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FLANDERS GREY™ NO.110",
+    "color_r": 216,
+    "color_g": 207,
+    "color_b": 188
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FITZROVIA™ NO.26",
+    "color_r": 233,
+    "color_g": 218,
+    "color_b": 211
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ENAMEL BLUE™ NO.78",
+    "color_r": 117,
+    "color_g": 186,
+    "color_b": 195
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EMPIRE-VIOLET™ NO.80",
+    "color_r": 75,
+    "color_g": 63,
+    "color_b": 75
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EMPIRE GREY™ NO.171",
+    "color_r": 199,
+    "color_g": 180,
+    "color_b": 162
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ELGIN™ NO.20",
+    "color_r": 229,
+    "color_g": 230,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EGYPTIAN GREY™ NO.154",
+    "color_r": 188,
+    "color_g": 171,
+    "color_b": 141
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EGERTON PLACE™ NO.297",
+    "color_r": 204,
+    "color_g": 181,
+    "color_b": 151
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EATON SQUARE™ NO.232",
+    "color_r": 58,
+    "color_g": 126,
+    "color_b": 153
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EARLY LAVENDER™ NO.260",
+    "color_r": 240,
+    "color_g": 231,
+    "color_b": 236
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DUKE’S HOUSE™ NO.44",
+    "color_r": 76,
+    "color_g": 50,
+    "color_b": 75
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DRURY LANE™ NO.115",
+    "color_r": 140,
+    "color_g": 137,
+    "color_b": 134
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DOWNING STREET™ NO.10",
+    "color_r": 63,
+    "color_g": 67,
+    "color_b": 64
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CRACE™ NO.16",
+    "color_r": 142,
+    "color_g": 138,
+    "color_b": 125
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COVENT GARDEN FLORAL™ NO.270",
+    "color_r": 221,
+    "color_g": 115,
+    "color_b": 107
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COTTON STREET™ NO.3",
+    "color_r": 222,
+    "color_g": 223,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORNICE™ NO.65",
+    "color_r": 224,
+    "color_g": 213,
+    "color_b": 195
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORNHILL™ NO.128",
+    "color_r": 239,
+    "color_g": 220,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORAL ORANGE™ NO.277",
+    "color_r": 222,
+    "color_g": 123,
+    "color_b": 78
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COPPER GREEN™ NO.36",
+    "color_r": 202,
+    "color_g": 231,
+    "color_b": 213
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COLOSSEUM™ NO.66",
+    "color_r": 210,
+    "color_g": 201,
+    "color_b": 180
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CLERKENWELL NO.21",
+    "color_r": 242,
+    "color_g": 226,
+    "color_b": 225
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CIRCLE LINE™ NO.45",
+    "color_r": 255,
+    "color_g": 200,
+    "color_b": 8
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHISWICK™ NO.100",
+    "color_r": 220,
+    "color_g": 217,
+    "color_b": 210
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHESTER SQUARE™ NO.199",
+    "color_r": 221,
+    "color_g": 214,
+    "color_b": 181
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHARTERHOUSE™ NO.4",
+    "color_r": 244,
+    "color_g": 244,
+    "color_b": 244
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHAMBERS GATE™ NO.85",
+    "color_r": 188,
+    "color_g": 183,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHALK FARM™ NO.53",
+    "color_r": 249,
+    "color_g": 242,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CAVENDISH CREAM™ NO.120",
+    "color_r": 244,
+    "color_g": 233,
+    "color_b": 199
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CADOGAN STONE™ NO.59",
+    "color_r": 236,
+    "color_g": 223,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BURLINGTON ARCADE™ NO.216",
+    "color_r": 101,
+    "color_g": 138,
+    "color_b": 145
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BROMPTON ROAD™ NO.205",
+    "color_r": 51,
+    "color_g": 70,
+    "color_b": 29
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BRIDGE BLUE™ NO.222",
+    "color_r": 185,
+    "color_g": 203,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BOND STREET™ NO.219",
+    "color_r": 0,
+    "color_g": 0,
+    "color_b": 17
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BOATHOUSE™ NO.33",
+    "color_r": 95,
+    "color_g": 138,
+    "color_b": 166
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLUEPRINT™ NO.50",
+    "color_r": 74,
+    "color_g": 94,
+    "color_b": 119
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLOOMSBURY™ NO.267",
+    "color_r": 206,
+    "color_g": 150,
+    "color_b": 141
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLACKOUT™ NO.41",
+    "color_r": 99,
+    "color_g": 83,
+    "color_b": 95
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BIRDCAGE WALK™ NO.117",
+    "color_r": 128,
+    "color_g": 116,
+    "color_b": 108
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BELGRAVIA™ NO.6",
+    "color_r": 249,
+    "color_g": 247,
+    "color_b": 246
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEEHIVE PLACE™ NO.140",
+    "color_r": 235,
+    "color_g": 220,
+    "color_b": 167
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEDFORD SQUARE™ NO.229",
+    "color_r": 162,
+    "color_g": 189,
+    "color_b": 208
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEAUVAIS™ NO.195",
+    "color_r": 200,
+    "color_g": 200,
+    "color_b": 180
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEAUFORT GARDENS™ NO.212",
+    "color_r": 219,
+    "color_g": 219,
+    "color_b": 219
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARTS CLUB™ NO.281",
+    "color_r": 195,
+    "color_g": 54,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARTILLERY GROUND™ NO.164",
+    "color_r": 48,
+    "color_g": 41,
+    "color_b": 21
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARCHWAY HOUSE™ NO.106",
+    "color_r": 156,
+    "color_g": 147,
+    "color_b": 128
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "AMBER GREY™ NO.156",
+    "color_r": 147,
+    "color_g": 131,
+    "color_b": 104
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ALDERMAN™ NO.60",
+    "color_r": 220,
+    "color_g": 205,
+    "color_b": 198
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ACANTHUS LEAF™ NO.12",
+    "color_r": 244,
+    "color_g": 242,
+    "color_b": 239
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ACANTHUS LEAF™ NO.12",
+    "color_r": 244,
+    "color_g": 242,
+    "color_b": 239
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ALDERMAN™ NO.60",
+    "color_r": 220,
+    "color_g": 205,
+    "color_b": 198
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "AMBER GREY™ NO.156",
+    "color_r": 147,
+    "color_g": 131,
+    "color_b": 104
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARCHWAY HOUSE™ NO.106",
+    "color_r": 156,
+    "color_g": 147,
+    "color_b": 128
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARTILLERY GROUND™ NO.164",
+    "color_r": 48,
+    "color_g": 41,
+    "color_b": 21
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ARTS CLUB™ NO.281",
+    "color_r": 195,
+    "color_g": 54,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEAUFORT GARDENS™ NO.212",
+    "color_r": 219,
+    "color_g": 219,
+    "color_b": 219
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEAUVAIS™ NO.195",
+    "color_r": 200,
+    "color_g": 200,
+    "color_b": 180
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEDFORD SQUARE™ NO.229",
+    "color_r": 162,
+    "color_g": 189,
+    "color_b": 208
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BEEHIVE PLACE™ NO.140",
+    "color_r": 235,
+    "color_g": 220,
+    "color_b": 167
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BELGRAVIA™ NO.6",
+    "color_r": 249,
+    "color_g": 247,
+    "color_b": 246
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BIRDCAGE WALK™ NO.117",
+    "color_r": 128,
+    "color_g": 116,
+    "color_b": 108
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLACKOUT™ NO.41",
+    "color_r": 99,
+    "color_g": 83,
+    "color_b": 95
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLOOMSBURY™ NO.267",
+    "color_r": 206,
+    "color_g": 150,
+    "color_b": 141
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BLUEPRINT™ NO.50",
+    "color_r": 74,
+    "color_g": 94,
+    "color_b": 119
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BOATHOUSE™ NO.33",
+    "color_r": 95,
+    "color_g": 138,
+    "color_b": 166
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BOND STREET™ NO.219",
+    "color_r": 0,
+    "color_g": 0,
+    "color_b": 17
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BRIDGE BLUE™ NO.222",
+    "color_r": 185,
+    "color_g": 203,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BROMPTON ROAD™ NO.205",
+    "color_r": 51,
+    "color_g": 70,
+    "color_b": 29
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "BURLINGTON ARCADE™ NO.216",
+    "color_r": 101,
+    "color_g": 138,
+    "color_b": 145
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CADOGAN STONE™ NO.59",
+    "color_r": 236,
+    "color_g": 223,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CAVENDISH CREAM™ NO.120",
+    "color_r": 244,
+    "color_g": 233,
+    "color_b": 199
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHALK FARM™ NO.53",
+    "color_r": 249,
+    "color_g": 242,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHAMBERS GATE™ NO.85",
+    "color_r": 188,
+    "color_g": 183,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHARTERHOUSE™ NO.4",
+    "color_r": 244,
+    "color_g": 244,
+    "color_b": 244
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHESTER SQUARE™ NO.199",
+    "color_r": 221,
+    "color_g": 214,
+    "color_b": 181
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CHISWICK™ NO.100",
+    "color_r": 220,
+    "color_g": 217,
+    "color_b": 210
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CIRCLE LINE™ NO.45",
+    "color_r": 255,
+    "color_g": 200,
+    "color_b": 8
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CLERKENWELL NO.21",
+    "color_r": 242,
+    "color_g": 226,
+    "color_b": 225
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COLOSSEUM™ NO.66",
+    "color_r": 210,
+    "color_g": 201,
+    "color_b": 180
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COPPER GREEN™ NO.36",
+    "color_r": 202,
+    "color_g": 231,
+    "color_b": 213
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORAL ORANGE™ NO.277",
+    "color_r": 222,
+    "color_g": 123,
+    "color_b": 78
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORNHILL™ NO.128",
+    "color_r": 239,
+    "color_g": 220,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CORNICE™ NO.65",
+    "color_r": 224,
+    "color_g": 213,
+    "color_b": 195
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COTTON STREET™ NO.3",
+    "color_r": 222,
+    "color_g": 223,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "COVENT GARDEN FLORAL™ NO.270",
+    "color_r": 221,
+    "color_g": 115,
+    "color_b": 107
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "CRACE™ NO.16",
+    "color_r": 142,
+    "color_g": 138,
+    "color_b": 125
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DOWNING STREET™ NO.10",
+    "color_r": 63,
+    "color_g": 67,
+    "color_b": 64
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DRURY LANE™ NO.115",
+    "color_r": 140,
+    "color_g": 137,
+    "color_b": 134
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DUKE’S HOUSE™ NO.44",
+    "color_r": 76,
+    "color_g": 50,
+    "color_b": 75
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "DULWICH RED",
+    "color_r": 167,
+    "color_g": 47,
+    "color_b": 35
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EARLY LAVENDER™ NO.260",
+    "color_r": 240,
+    "color_g": 231,
+    "color_b": 236
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EATON SQUARE™ NO.232",
+    "color_r": 58,
+    "color_g": 126,
+    "color_b": 153
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EGERTON PLACE™ NO.297",
+    "color_r": 204,
+    "color_g": 181,
+    "color_b": 151
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EGYPTIAN GREY™ NO.154",
+    "color_r": 188,
+    "color_g": 171,
+    "color_b": 141
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ELGIN™ NO.20",
+    "color_r": 229,
+    "color_g": 230,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EMPIRE GREY™ NO.171",
+    "color_r": 199,
+    "color_g": 180,
+    "color_b": 162
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "EMPIRE-VIOLET™ NO.80",
+    "color_r": 75,
+    "color_g": 63,
+    "color_b": 75
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ENAMEL BLUE™ NO.78",
+    "color_r": 117,
+    "color_g": 186,
+    "color_b": 195
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FITZROVIA™ NO.26",
+    "color_r": 233,
+    "color_g": 218,
+    "color_b": 211
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FLANDERS GREY™ NO.110",
+    "color_r": 216,
+    "color_g": 207,
+    "color_b": 188
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FLORAL STREET™ NO.147",
+    "color_r": 252,
+    "color_g": 243,
+    "color_b": 198
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FLORIS™ NO.27",
+    "color_r": 188,
+    "color_g": 161,
+    "color_b": 156
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FREEGROVE MUSTARD",
+    "color_r": 232,
+    "color_g": 186,
+    "color_b": 60
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FRENCH GREEN™ NO.187",
+    "color_r": 221,
+    "color_g": 224,
+    "color_b": 181
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FRIEZE™ NO.84",
+    "color_r": 239,
+    "color_g": 233,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-001™",
+    "color_r": 168,
+    "color_g": 130,
+    "color_b": 55
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-002™",
+    "color_r": 235,
+    "color_g": 206,
+    "color_b": 150
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-003™",
+    "color_r": 235,
+    "color_g": 202,
+    "color_b": 155
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-004™",
+    "color_r": 237,
+    "color_g": 234,
+    "color_b": 237
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-005™",
+    "color_r": 251,
+    "color_g": 185,
+    "color_b": 183
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-006™",
+    "color_r": 216,
+    "color_g": 65,
+    "color_b": 92
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-007™",
+    "color_r": 175,
+    "color_g": 58,
+    "color_b": 98
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-008™",
+    "color_r": 255,
+    "color_g": 218,
+    "color_b": 107
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-009™",
+    "color_r": 213,
+    "color_g": 68,
+    "color_b": 53
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-010™",
+    "color_r": 238,
+    "color_g": 133,
+    "color_b": 82
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-011™",
+    "color_r": 90,
+    "color_g": 211,
+    "color_b": 146
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-012™",
+    "color_r": 64,
+    "color_g": 200,
+    "color_b": 178
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-013™",
+    "color_r": 101,
+    "color_g": 154,
+    "color_b": 158
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-014™",
+    "color_r": 84,
+    "color_g": 87,
+    "color_b": 80
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-015™",
+    "color_r": 129,
+    "color_g": 129,
+    "color_b": 119
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-016™",
+    "color_r": 153,
+    "color_g": 188,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-017™",
+    "color_r": 99,
+    "color_g": 167,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-018™",
+    "color_r": 90,
+    "color_g": 125,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-019™",
+    "color_r": 128,
+    "color_g": 97,
+    "color_b": 161
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "FTT-020™",
+    "color_r": 106,
+    "color_g": 67,
+    "color_b": 112
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GENTLEMAN’S PINK™ NO.221",
+    "color_r": 241,
+    "color_g": 221,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GOLDEN SQUARE™ NO.131",
+    "color_r": 250,
+    "color_g": 224,
+    "color_b": 151
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GRAVEL LANE™ NO.169",
+    "color_r": 230,
+    "color_g": 220,
+    "color_b": 197
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GRAYS INN™ NO.167",
+    "color_r": 236,
+    "color_g": 226,
+    "color_b": 202
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GREENSTONE™ NO.190",
+    "color_r": 197,
+    "color_g": 196,
+    "color_b": 156
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GREENWICH TIME™ NO.8",
+    "color_r": 234,
+    "color_g": 240,
+    "color_b": 240
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GREY OCHRE™ NO.152",
+    "color_r": 208,
+    "color_g": 201,
+    "color_b": 179
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GROSVENOR SQUARE™ NO.109",
+    "color_r": 219,
+    "color_g": 214,
+    "color_b": 204
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "GROUSE™ NO.75",
+    "color_r": 232,
+    "color_g": 215,
+    "color_b": 193
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HAWKESMOOR™ NO.112",
+    "color_r": 216,
+    "color_g": 218,
+    "color_b": 219
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HAYMARKET™ NO.47",
+    "color_r": 190,
+    "color_g": 148,
+    "color_b": 16
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HOLBEIN CHAMBER™ NO.7",
+    "color_r": 241,
+    "color_g": 240,
+    "color_b": 234
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HOLLAND PARK™ NO.5",
+    "color_r": 220,
+    "color_g": 214,
+    "color_b": 200
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HONEST JOHN™ NO.58",
+    "color_r": 238,
+    "color_g": 218,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HOXTON GREY™ NO.72",
+    "color_r": 233,
+    "color_g": 218,
+    "color_b": 213
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HUGUENOT™ NO.49",
+    "color_r": 150,
+    "color_g": 35,
+    "color_b": 44
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "HURLINGHAM™ NO.181",
+    "color_r": 236,
+    "color_g": 239,
+    "color_b": 220
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "INDIAN LAKE™ NO.288",
+    "color_r": 151,
+    "color_g": 26,
+    "color_b": 10
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "IONIC™ NO.87",
+    "color_r": 199,
+    "color_g": 189,
+    "color_b": 166
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ISLINGTON™ NO.23",
+    "color_r": 211,
+    "color_g": 205,
+    "color_b": 205
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "KENSINGTON ROSE™ NO.22",
+    "color_r": 242,
+    "color_g": 232,
+    "color_b": 231
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LAMBETH WALK™ NO.210",
+    "color_r": 223,
+    "color_g": 226,
+    "color_b": 233
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LAVENDER GARDEN™ NO.30",
+    "color_r": 174,
+    "color_g": 158,
+    "color_b": 155
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LEADENHALL™ NO.118",
+    "color_r": 99,
+    "color_g": 97,
+    "color_b": 98
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LEMON SALTS™ NO.43",
+    "color_r": 240,
+    "color_g": 228,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LIMEHOUSE™ NO.31",
+    "color_r": 235,
+    "color_g": 222,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LIMESTONE™ NO.55",
+    "color_r": 248,
+    "color_g": 241,
+    "color_b": 221
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LOCK KEEPER™ NO.18",
+    "color_r": 52,
+    "color_g": 42,
+    "color_b": 31
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LOLLY POP™ NO.275",
+    "color_r": 255,
+    "color_g": 136,
+    "color_b": 67
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LONDON BROWN™ NO.287",
+    "color_r": 54,
+    "color_g": 29,
+    "color_b": 21
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LONDON PLANE™ NO.200",
+    "color_r": 185,
+    "color_g": 172,
+    "color_b": 116
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LONG ACRE™ NO.102",
+    "color_r": 163,
+    "color_g": 176,
+    "color_b": 172
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LOTS ROAD™ NO.24",
+    "color_r": 236,
+    "color_g": 229,
+    "color_b": 199
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "LUDGATE CIRCUS™ NO.89",
+    "color_r": 204,
+    "color_g": 198,
+    "color_b": 196
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MAD ABOUT THE BATHROOM",
+    "color_r": 107,
+    "color_g": 101,
+    "color_b": 65
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARBLE ARCH™ NO.82",
+    "color_r": 250,
+    "color_g": 232,
+    "color_b": 214
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARITIME™ NO.236",
+    "color_r": 59,
+    "color_g": 77,
+    "color_b": 101
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MARKET GREEN NO.38",
+    "color_r": 51,
+    "color_g": 88,
+    "color_b": 84
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MAUGHAM WHITE™ NO.2",
+    "color_r": 206,
+    "color_g": 207,
+    "color_b": 200
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MAYFAIR DARK™ NO.218",
+    "color_r": 92,
+    "color_g": 102,
+    "color_b": 139
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MESSEL™ NO.39",
+    "color_r": 93,
+    "color_g": 92,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "METAL PRIMER & UNDERCOAT - DARK GREY",
+    "color_r": 57,
+    "color_g": 51,
+    "color_b": 41
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "METAL PRIMER & UNDERCOAT - LIGHT GREY",
+    "color_r": 134,
+    "color_g": 126,
+    "color_b": 125
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "METAL PRIMER & UNDERCOAT - WHITE",
+    "color_r": 219,
+    "color_g": 179,
+    "color_b": 131
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MEWS BLUE™ NO.98",
+    "color_r": 218,
+    "color_g": 216,
+    "color_b": 213
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MID WEDGWOOD™ NO.113",
+    "color_r": 202,
+    "color_g": 195,
+    "color_b": 201
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MILLBANK™ NO.254",
+    "color_r": 141,
+    "color_g": 108,
+    "color_b": 77
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MINT STREET™ NO.95",
+    "color_r": 228,
+    "color_g": 218,
+    "color_b": 205
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MORNING BLUE™ NO.32",
+    "color_r": 206,
+    "color_g": 217,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MORTLAKE RED™ NO.290",
+    "color_r": 209,
+    "color_g": 74,
+    "color_b": 56
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MUSEUM™ NO.151",
+    "color_r": 186,
+    "color_g": 190,
+    "color_b": 180
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "MYRTLE GREEN™ NO.168",
+    "color_r": 133,
+    "color_g": 139,
+    "color_b": 115
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "NEW LIME™ NO.149",
+    "color_r": 196,
+    "color_g": 187,
+    "color_b": 78
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "NOTTING HILL™ NO.213",
+    "color_r": 203,
+    "color_g": 220,
+    "color_b": 226
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "OBSERVATORY™ NO.34",
+    "color_r": 58,
+    "color_g": 94,
+    "color_b": 134
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ONSLOW™ NO.48",
+    "color_r": 237,
+    "color_g": 222,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ORATORY™ NO.237",
+    "color_r": 73,
+    "color_g": 76,
+    "color_b": 81
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "OSTERLEY™ NO.25",
+    "color_r": 246,
+    "color_g": 239,
+    "color_b": 235
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PALE LILAC™ NO.246",
+    "color_r": 234,
+    "color_g": 203,
+    "color_b": 196
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PALMERSTON PINK™ NO.243",
+    "color_r": 238,
+    "color_g": 225,
+    "color_b": 223
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PAVING STONE™ NO.61",
+    "color_r": 216,
+    "color_g": 200,
+    "color_b": 165
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PEACH FLESH PINK™ NO.268",
+    "color_r": 221,
+    "color_g": 190,
+    "color_b": 160
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PEDIMENT™ NO.73",
+    "color_r": 251,
+    "color_g": 229,
+    "color_b": 204
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PIMLICO™ NO.136",
+    "color_r": 249,
+    "color_g": 226,
+    "color_b": 146
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PINK HOUSE PINK",
+    "color_r": 243,
+    "color_g": 186,
+    "color_b": 163
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PINK WOOD PRIMER AND UNDERCOAT",
+    "color_r": 222,
+    "color_g": 185,
+    "color_b": 129
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PLEASURE GARDENS GREEN™ NO.214",
+    "color_r": 34,
+    "color_g": 60,
+    "color_b": 35
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PLUM TREE™ NO.283",
+    "color_r": 87,
+    "color_g": 18,
+    "color_b": 27
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PORTCULLIS™ NO.170",
+    "color_r": 149,
+    "color_g": 137,
+    "color_b": 103
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PRIMROSE HILL™ NO.201",
+    "color_r": 168,
+    "color_g": 177,
+    "color_b": 56
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PROPER BLUE™ NO.67",
+    "color_r": 19,
+    "color_g": 75,
+    "color_b": 112
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "PURE WHITE™ NO.1",
+    "color_r": 253,
+    "color_g": 253,
+    "color_b": 253
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "RED POST HILL™ NO.68",
+    "color_r": 148,
+    "color_g": 19,
+    "color_b": 12
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ROSE TAUPE™ NO.292",
+    "color_r": 111,
+    "color_g": 101,
+    "color_b": 80
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ROSE THEATRE™ NO.249",
+    "color_r": 232,
+    "color_g": 222,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ROTHSCHILD STREET™ NO.296",
+    "color_r": 73,
+    "color_g": 7,
+    "color_b": 5
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SAINT JOHNS™ NO.64",
+    "color_r": 229,
+    "color_g": 229,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SELLA",
+    "color_r": 216,
+    "color_g": 199,
+    "color_b": 159
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SERPENTINE™ NO.192",
+    "color_r": 154,
+    "color_g": 156,
+    "color_b": 120
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SHOREDITCH™ NO.15",
+    "color_r": 93,
+    "color_g": 92,
+    "color_b": 76
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SILVER BIT™ NO.77",
+    "color_r": 247,
+    "color_g": 238,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SINNER™ NO.238",
+    "color_r": 11,
+    "color_g": 11,
+    "color_b": 11
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SLEET™ NO.91",
+    "color_r": 235,
+    "color_g": 233,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SLOANE SQUARE™ NO.92",
+    "color_r": 240,
+    "color_g": 234,
+    "color_b": 222
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SMITHFIELD™ NO.19",
+    "color_r": 215,
+    "color_g": 205,
+    "color_b": 202
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SOHO HOUSE NO.266",
+    "color_r": 209,
+    "color_g": 178,
+    "color_b": 171
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SORREL GREEN™ NO.207",
+    "color_r": 94,
+    "color_g": 129,
+    "color_b": 49
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ST CLEMENT™ NO.11",
+    "color_r": 222,
+    "color_g": 225,
+    "color_b": 218
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ST JAMES™ NO.40",
+    "color_r": 233,
+    "color_g": 222,
+    "color_b": 214
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "ST MARTINS™ NO.37",
+    "color_r": 231,
+    "color_g": 220,
+    "color_b": 212
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STABILISING SOLUTION",
+    "color_r": 131,
+    "color_g": 130,
+    "color_b": 132
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STIRRUP™ NO.114",
+    "color_r": 184,
+    "color_g": 186,
+    "color_b": 173
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STOCKWELL GREEN™ NO.203",
+    "color_r": 162,
+    "color_g": 161,
+    "color_b": 103
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "STONE CASTLE™ NO.71",
+    "color_r": 223,
+    "color_g": 205,
+    "color_b": 189
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "SYON PARK™ NO.13",
+    "color_r": 233,
+    "color_g": 238,
+    "color_b": 230
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "TEMPLE BAR™ NO.70",
+    "color_r": 227,
+    "color_g": 216,
+    "color_b": 200
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "THE BOLTONS™ NO.28",
+    "color_r": 244,
+    "color_g": 230,
+    "color_b": 217
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "THEATRE LAND™ NO.282",
+    "color_r": 146,
+    "color_g": 4,
+    "color_b": 6
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "THREADNEEDLE™ NO.262",
+    "color_r": 232,
+    "color_g": 217,
+    "color_b": 210
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "VERDURE YELLOW™ NO.148",
+    "color_r": 239,
+    "color_g": 222,
+    "color_b": 130
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WALBROOK™ NO.142",
+    "color_r": 254,
+    "color_g": 241,
+    "color_b": 211
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WALL PRIMER",
+    "color_r": 219,
+    "color_g": 179,
+    "color_b": 131
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WALPOLE™ NO.42",
+    "color_r": 243,
+    "color_g": 249,
+    "color_b": 251
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WESTMORELAND™ NO.160",
+    "color_r": 155,
+    "color_g": 130,
+    "color_b": 85
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WHARF SACKING™ NO.127.",
+    "color_r": 226,
+    "color_g": 199,
+    "color_b": 140
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WHITE HART™ NO.51",
+    "color_r": 244,
+    "color_g": 230,
+    "color_b": 215
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WHITEHALL™ NO.9",
+    "color_r": 230,
+    "color_g": 218,
+    "color_b": 216
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WOOD PRIMER & UNDERCOAT - DARK GREY",
+    "color_r": 57,
+    "color_g": 51,
+    "color_b": 41
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WOOD PRIMER & UNDERCOAT - LIGHT GREY",
+    "color_r": 134,
+    "color_g": 126,
+    "color_b": 125
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WOOD PRIMER & UNDERCOAT - WHITE",
+    "color_r": 246,
+    "color_g": 217,
+    "color_b": 174
+  },
+  {
+    "brand_name": "麦兰德",
+    "color_name": "WOOD PRIMER & UNDERCOAT - YELLOW",
+    "color_r": 234,
+    "color_g": 206,
+    "color_b": 155
+  }
+]
